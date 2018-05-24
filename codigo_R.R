@@ -3,3 +3,5 @@ x <- rnorm(10,0,1)
 
 # Más código
 y <- runif(10,0,1)
+
+print('Hola mundo')
